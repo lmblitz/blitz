@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <meta http-equiv="refresh" content="0; url=https://discord.gg/lmblitz">
+</head>
+<body>
+  <p>Redirecting to Discord... <a href="hhttps://discord.gg/RadtQpHfxv">Click here if not redirected</a></p>
+</body>
+</html>
